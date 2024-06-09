@@ -8,8 +8,7 @@ This project, titled Data Driven Analytics for Supply Chain Management, was part
 The dataset used in this project is provided by DataCo Global. It includes comprehensive information on various supply chain parameters, such as inventory levels, order quantities, delivery times, and supplier performance.
 
 As the size of the dataset is greater than 25MB, it was unable to upload, therefore i have attached the link to the dataset below.
-### Dataset Link: **https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data**
-**https://docs.google.com/spreadsheets/d/1mBwrbQFHvm3ulzab1HjnXIqaAeazgvjjrbPbtmTrq2U/edit?usp=sharing**
+### Dataset Link: **https://drive.google.com/drive/folders/1knIpQL8fwVNbXjaF1OU7N1wsAQZWPDS6?usp=sharing**
 
 ### Preprocessed Dataset: **https://da32wpgdgf62841.sg.qlikcloud.com/dataset/66634f9d84fc9a3c9da0e1bd**
 
